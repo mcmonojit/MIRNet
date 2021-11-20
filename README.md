@@ -1,13 +1,13 @@
 # MIRNet
 
-[![](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/soumik12345/mirnet/app.py)
+<!-- [![](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/soumik12345/mirnet/app.py) -->
 
 Tensorflow implementation of the MIRNet architecture as proposed by [Learning Enriched Features for Real Image
 Restoration and Enhancement](https://arxiv.org/pdf/2003.06792v2.pdf).
 
-**Lanuch Notebooks:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/soumik12345/MIRNet/HEAD)
+<!-- **Lanuch Notebooks:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/soumik12345/MIRNet/HEAD) -->
 
-**Wandb Logs:** [https://wandb.ai/19soumik-rakshit96/mirnet](https://wandb.ai/19soumik-rakshit96/mirnet)
+<!-- **Wandb Logs:** [https://wandb.ai/19soumik-rakshit96/mirnet](https://wandb.ai/19soumik-rakshit96/mirnet) -->
 
 **Blog Post:** [https://keras.io/examples/vision/mirnet/](https://keras.io/examples/vision/mirnet/)
 
@@ -17,9 +17,9 @@ Restoration and Enhancement](https://arxiv.org/pdf/2003.06792v2.pdf).
 
 **Tensorflow JS Variant of MIRNet:** [https://github.com/Rishit-dagli/MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS).
 
-![](./assets/mirnet_architecture.png)
+<!-- ![](./assets/mirnet_architecture.png) -->
 
-![](./assets/lol_results.gif)
+<!-- ![](./assets/lol_results.gif) -->
 
 ## Pre-trained Weights
 
