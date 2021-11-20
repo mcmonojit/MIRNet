@@ -17,7 +17,7 @@ Restoration and Enhancement](https://arxiv.org/pdf/2003.06792v2.pdf).
 
 <!-- **Tensorflow JS Variant of MIRNet:** [https://github.com/Rishit-dagli/MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS). -->
 
-<!-- ![](./assets/mirnet_architecture.png) -->
+![](./assets/mirnet_architecture.png)
 
 <!-- ![](./assets/lol_results.gif) -->
 
